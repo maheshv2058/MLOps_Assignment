@@ -29,8 +29,8 @@ This project demonstrates a complete MLOps workflow: a pre-trained transformer m
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/mlops-assignment2.git
-cd mlops-assignment2
+git clone https://github.com/maheshv2058/MLOps_Assignment.git
+cd MLOps_Assignment
 ```
 
 **2. Install dependencies**
@@ -78,5 +78,5 @@ GPU is strongly recommended. On free-tier Google Colab (T4), training takes roug
 
 ## Links
 
-- Hugging Face model: https://huggingface.co/your-username/distilbert-goodreads-genres
-- W&B dashboard: https://wandb.ai/your-username/mlops-assignment2
+- Hugging Face model: https://huggingface.co/maheshvgv/distilbert-goodreads-genres
+- W&B dashboard: https://wandb.ai/g25ait2058-mahesh/mlops-assignment2
